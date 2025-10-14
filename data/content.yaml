@@ -10,20 +10,15 @@ personal:
     I am an undergraduate student at the Chinese University of Hong Kong. My interest lies in interpretability of transformer-based models and Simulating real world social networks with multiple LLMs.
 
 publications:
-  - title: "Deep Learning for Image Recognition: A Comprehensive Survey"
-    authors: Smith, J., Doe, J., Johnson, A.
-    venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - title: "On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents"
+    authors: Huang, Jen-tse and Zhou, Jiaxu and Jin, Tailin and Zhou, Xuhui and Chen, Zixi and Wang, Wenxuan and Yuan, Youliang and Lyu, Michael R and Sap, Maarten
+    venue: International Conference on Machine Learning 2025 (ICML2025)
     year: 2024
-    link: https://arxiv.org/example1
-    
-  - title: "Attention Mechanisms in Neural Networks"
-    authors: Smith, J., Williams, R.
-    venue: Conference on Computer Vision and Pattern Recognition (CVPR)
-    year: 2023
-    link: https://arxiv.org/example2
-    
-  - title: "Transfer Learning for Medical Image Analysis"
-    authors: Brown, M., Smith, J., Davis, K.
-    venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
-    year: 2023
-    link: https://arxiv.org/example3
+    link: https://arxiv.org/abs/2408.00989
+
+
+  - title: "The pimmur principles: Ensuring validity in collective behavior of llm societies"
+    authors: Huang, Jen-tse and Zhou, Jiaxu and Jin, Tailin and Zhou, Xuhui and Chen, Zixi and Wang, Wenxuan and Yuan, Youliang and Lyu, Michael R and Sap, Maarten
+    venue: preprint on arXiv
+    year: 2025
+    link: https://arxiv.org/abs/2509.18052
