@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jiaxu Zhou</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="loading">Loading content...</div>
+  
+  <header id="header" style="display: none;">
+    <h1 id="name"></h1>
+    <p class="subtitle"><span id="title"></span> | <span id="institution"></span></p>
+  </header>
+
+  <section id="about-section" style="display: none;">
+    <h2>Bio</h2>
+    <p class="bio" id="bio"></p>
+  </section>
+
+  <section id="publications-section" style="display: none;">
+    <h2>Publications</h2>
+    <div id="publications-list"></div>
+  </section>
+
+  <section id="projects-section" style="display: none;">
+    <h2>Projects</h2>
+    <div id="projects-list"></div>
+  </section>
+
+  <section id="contact-section" style="display: none;">
+    <h2>Contact</h2>
+    <div class="contact-info" id="contact-info"></div>
+  </section>
+
+  <script src="js/loadContent.js"></script> 
+</body>
+</html>

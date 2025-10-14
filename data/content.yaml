@@ -1,0 +1,29 @@
+personal:
+  name: Jiaxu Zhou
+  title: Undergraduate Student
+  institution: The Chinese University of Hong Kong
+  email: 1155211042@link.cuhk.edu.hk
+  links:
+    - github: https://github.com/JXZhou0224
+    - google_scholar: https://scholar.google.com/citations?user=evg0sYQAAAAJ&hl=en
+  bio: |
+    I am an undergraduate student at the Chinese University of Hong Kong. My interest lies in interpretability of transformer-based models and Simulating real world social networks with multiple LLMs.
+
+publications:
+  - title: "Deep Learning for Image Recognition: A Comprehensive Survey"
+    authors: Smith, J., Doe, J., Johnson, A.
+    venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    year: 2024
+    link: https://arxiv.org/example1
+    
+  - title: "Attention Mechanisms in Neural Networks"
+    authors: Smith, J., Williams, R.
+    venue: Conference on Computer Vision and Pattern Recognition (CVPR)
+    year: 2023
+    link: https://arxiv.org/example2
+    
+  - title: "Transfer Learning for Medical Image Analysis"
+    authors: Brown, M., Smith, J., Davis, K.
+    venue: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+    year: 2023
+    link: https://arxiv.org/example3
