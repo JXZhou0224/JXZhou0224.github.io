@@ -4,21 +4,24 @@ personal:
   institution: The Chinese University of Hong Kong
   email: 1155211042@link.cuhk.edu.hk
   links:
-    - github: https://github.com/JXZhou0224
-    - google_scholar: https://scholar.google.com/citations?user=evg0sYQAAAAJ&hl=en
+    github: https://github.com/JXZhou0224
+    google_scholar: https://scholar.google.com/citations?user=evg0sYQAAAAJ&hl=en
+    email: mailto:1155211042@link.cuhk.edu.hk
   bio: |
     I am an undergraduate student at the Chinese University of Hong Kong. My interest lies in interpretability of transformer-based models and Simulating real world social networks with multiple LLMs.
-
-publications:
-  - title: "On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents"
-    authors: Huang, Jen-tse and Zhou, Jiaxu and Jin, Tailin and Zhou, Xuhui and Chen, Zixi and Wang, Wenxuan and Yuan, Youliang and Lyu, Michael R and Sap, Maarten
-    venue: International Conference on Machine Learning 2025 (ICML2025)
-    year: 2024
-    link: https://arxiv.org/abs/2408.00989
-
-
-  - title: "The pimmur principles: Ensuring validity in collective behavior of llm societies"
-    authors: Huang, Jen-tse and Zhou, Jiaxu and Jin, Tailin and Zhou, Xuhui and Chen, Zixi and Wang, Wenxuan and Yuan, Youliang and Lyu, Michael R and Sap, Maarten
-    venue: preprint on arXiv
-    year: 2025
-    link: https://arxiv.org/abs/2509.18052
+awards:
+- title: "Dean's List - Faculty of Engineering at CUHK"
+  date: "2023,2024"
+  description: "Recognized for academic excellence in the Faculty of Engineering."
+- title: "IE Exchange Scholarship"
+  date: "2025"
+  description: "Awarded to outstanding students for exchange programs."
+- title: "class of 1970 fortieth graduation ceremony scholarship"
+  date: "2025"
+  description: "Exchange scholarship for academic excellence."
+- title: "Arthur and Louise May Memorial Scholarship"
+  date: "2025"
+  description: "Awarded for outstanding academic performance."
+- title: "Talent Development Scholarship"
+  date: "2024"
+  description: "Recognized for winning first prize in NOIp 2023."
