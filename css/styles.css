@@ -52,6 +52,7 @@ h2 {
 	grid-template-columns: 1fr 4fr;
 	grid-template-rows: 4rem 1fr;
 	height: 100vh;
+	gap: 1rem;
 }
 
 .header {
@@ -60,6 +61,7 @@ h2 {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	padding-bottom: 2rem;
 }
 
 .header nav {
@@ -76,12 +78,12 @@ h2 {
 .header nav a:hover{
 	background-color: #ececec;
 	padding: 1rem;
+
 	border-radius: 8px;
 }
 
 .sidebar {
 	grid-row: 2;
-	padding-top: 1rem;
 	padding-left: 100px;
 }
 
@@ -101,10 +103,8 @@ h2 {
 .main-content {
 	grid-row: 2;
 	grid-column: 2;
-	padding-top: 1rem;
 	overflow-y: auto;
 	/* Enables vertical scrolling if content overflows */
-	padding-left: 20px;
 	padding-right: 200px;
 	/* Optional: Adds some padding for better readability */
 }
