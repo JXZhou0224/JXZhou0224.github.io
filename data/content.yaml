@@ -9,7 +9,13 @@ personal:
     email: mailto:1155211042@link.cuhk.edu.hk
   bio: |
     I am an undergraduate student at the Chinese University of Hong Kong. My interest lies in interpretability of transformer-based models and Simulating real world social networks with multiple LLMs.
-awards:
+achievements:
+- title: "CGPA: 3.944/4.000"
+  date: "2023-2025"
+  description: "Maintained a high CGPA throughout undergraduate studies."
+- title: "First Prize - National Olympiad in Informatics in Provinces (NOIp) 2022"
+  date: "2022"
+  description: "Achieved first place in the prestigious NOIp competition."
 - title: "Dean's List - Faculty of Engineering at CUHK"
   date: "2023,2024"
   description: "Recognized for academic excellence in the Faculty of Engineering."
@@ -24,4 +30,8 @@ awards:
   description: "Awarded for outstanding academic performance."
 - title: "Talent Development Scholarship"
   date: "2024"
-  description: "Recognized for winning first prize in NOIp 2023."
+  description: "Recognized for winning first prize in NOIp 2022."
+projects:
+- title: "Contribute in building LLM Agent social learning environment SOTOPIA-S4, collaborating with CMU-LTI lab"
+  description: "Development of an asynchronous multi-agent simulation framework for LLM agents"
+  link: "https://github.com/sotopia-lab/sotopia"

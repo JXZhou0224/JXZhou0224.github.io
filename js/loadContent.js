@@ -51,14 +51,30 @@ async function loadContent() {
     });
     document.getElementById('publications-section').style.display = 'block';
 
-    const awardsList = document.getElementById('awards-list');
-    content.awards.forEach(award => {
+    const achievementsList = document.getElementById('achievements-list');
+    content.achievements.forEach(achievement => {
       const li = document.createElement('li');
-      li.innerHTML = `<strong>${award.title}</strong> (${award.date})`;
-      awardsList.appendChild(li);
+      li.innerHTML = `<strong>${achievement.title}</strong> (${achievement.date})`;
+      achievementsList.appendChild(li);
     });
-    document.getElementById('awards-section').style.display = 'block';
+    document.getElementById('achievements-section').style.display = 'block';
 
+    const projectsList = document.getElementById('projects-list');
+    content.projects.forEach(project => {
+      const div = document.createElement('div');
+      div.className = 'publication';
+      div.innerHTML = `
+        <div class="publication-title">
+          ${project.title}
+        </div>
+        <div class="publication-meta">
+          ${project.description}
+          ${project.link ? `<a href="${project.link}" target="_blank">→ View project</a>` : ''}
+        </div>
+      `;
+      projectsList.appendChild(div);
+    });
+    document.getElementById('projects-section').style.display = 'block';
     // Rest of population code...
     
   } catch (e) {
