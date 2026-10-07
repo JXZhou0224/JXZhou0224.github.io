@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Keep source teaser videos out of Git; the site uses optimized GIFs.
+images/teasers/*.mp4

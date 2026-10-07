@@ -30,9 +30,7 @@ redirect_from:
     <article class="publication-item">
       <div class="publication-media" aria-label="WMGuide teaser">
         <span class="publication-badge">ICRA 2027 In Submission</span>
-        <video autoplay muted loop playsinline preload="metadata" aria-label="WMGuide teaser video">
-          <source src="{{ '/images/teasers/wmguide.mp4' | relative_url }}" type="video/mp4">
-        </video>
+        <img src="{{ '/images/teasers/wmguide.gif' | relative_url }}" alt="WMGuide teaser animation">
       </div>
       <div class="publication-copy">
         <h3>WMGuide: Guiding Diffusion Action Prior with Learned World Model for Humanoid Planning</h3>
@@ -45,9 +43,7 @@ redirect_from:
     <article class="publication-item">
       <div class="publication-media" aria-label="BiFlow Policy teaser">
         <span class="publication-badge">ICRA 2027 In Submission</span>
-        <video autoplay muted loop playsinline preload="metadata" aria-label="BiFlow Policy teaser video">
-          <source src="{{ '/images/teasers/biflow.mp4' | relative_url }}" type="video/mp4">
-        </video>
+        <img src="{{ '/images/teasers/biflow.gif' | relative_url }}" alt="BiFlow Policy teaser animation">
       </div>
       <div class="publication-copy">
         <h3>BiFlow Policy: Bidirectional Normalizing-Flow Policies for Robotic Manipulation with One Network Evaluation</h3>
